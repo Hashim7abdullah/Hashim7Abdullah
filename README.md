@@ -17,6 +17,6 @@
 
 
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/></a>
 
 
