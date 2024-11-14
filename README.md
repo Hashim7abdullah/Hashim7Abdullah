@@ -17,6 +17,11 @@
 
 
 
-<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/></a>
+ 👨‍💻 Tech Stack
 
+Here are some of the languages, frameworks, and tools that I work with:
+
+ Languages and Tools:
+
+ 
 
