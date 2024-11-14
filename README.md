@@ -15,5 +15,4 @@
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="width:40px; height:40px;"/>
 </a>
 
-[![An image of @hashim7abdullah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hashim7abdullah)](https://holopin.io/@hashim7abdullah)
 
