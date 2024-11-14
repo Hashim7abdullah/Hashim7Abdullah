@@ -3,9 +3,16 @@
 - 🔭 I’m currently working on Forever a ecommerce website
 - 🌱 I’m currently a MERN Stack Developer
 - 👯 I’m looking to collaborate on MERN Stack Projects
-- 📫 How to reach me: ## Connect with me:
+- 📫 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ha5hiim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashim-abdullah-1a0b3a30b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashim7abdullah7@gmail.com)
+<a href="https://instagram.com/ha5hiim" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="width:40px; height:40px; margin-right:10px;"/>
+</a>
+<a href="https://linkedin.com/in/hashim-abdullah-1a0b3a30b" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" style="width:40px; height:40px; margin-right:10px;"/>
+</a>
+<a href="mailto:hashim7abdullah7@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" style="width:40px; height:40px;"/>
+</a>
+
 
