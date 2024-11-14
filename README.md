@@ -44,7 +44,7 @@ Here are some of the languages, frameworks, and tools that I work with:
 <a href="https://nodejs.org/" target="_blank" style="margin-right: 30px;">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
 </a>
-<a href="https://expressjs.com/" target="_blank" style="margin-right: 30px;">
+<a href="https://expressjs.com/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" style="margin-right: 30px;">
