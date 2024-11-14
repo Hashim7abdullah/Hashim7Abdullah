@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Forever ecommerce website
 - 🌱 I’m currently a MERN Stack Developer
 - 👯 I’m looking to collaborate on MERN Stack Projects
-- 📫 Connect with me:
+- 📫 Connect with me: hashim7abdullah7@gmail.com
 
 <a href="https://instagram.com/ha5hiim" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="width:40px; height:40px; margin-right:20px;"/>
