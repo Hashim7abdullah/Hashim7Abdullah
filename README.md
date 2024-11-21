@@ -1,6 +1,6 @@
  Hi there , I am Hashim Abdullah👋
 
-- 🔭 I’m currently working on CartHex ecommerce website
+- 🔭 I’m currently working on CartHex ecommerce webs
 - 🌱 I’m currently a MERN Stack Developer
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 📫 Connect with me: hashim7abdullah7@gmail.com
