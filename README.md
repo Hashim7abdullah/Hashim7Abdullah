@@ -1,6 +1,6 @@
  Hi there , I am Hashim Abdullah👋
-e
-- 🔭 I’m currently working on a smooth scroll parallax modern websit
+
+- 🔭 I’m currently working on a smooth scroll parallax modern website
 - 🌱 I’m currently a MERN Stack Developer
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 📫 Connect with me: hashim7abdullah7@gmail.com
