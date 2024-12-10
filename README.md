@@ -55,5 +55,19 @@ Here are some of the languages, frameworks, and tools that I work with:
 </a>
 
 
+
+
+
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashim7Abdullah&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim7Abdullah&layout=compact&theme=radical)
+
+## My Contributions
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hashim7Abdullah&theme=react-dark)
+
+
+
  
 
