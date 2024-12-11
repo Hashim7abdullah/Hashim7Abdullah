@@ -41,6 +41,9 @@ Here are some of the languages, frameworks, and tools that I work with:
 <a href="https://reactjs.org/" target="_blank" style="margin-right: 30px; gap:20px;">
   <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="40" height="40"/>
 </a>
+<a href="https://reactjs.org/" target="_blank" style="margin-right: 30px; gap:20px;">
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+</a>
 <a href="https://nodejs.org/" target="_blank" style="margin-right: 30px; gap:20px;">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
 </a>
