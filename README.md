@@ -38,7 +38,7 @@ Here are some of the languages, frameworks, and tools that I work with:
 </a>
 
 
-- ## Tools and Frameworks
+### Tools and Frameworks:
 
 ### Frontend
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
