@@ -66,7 +66,11 @@ These are the tools and frameworks I frequently use in my MERN stack projects:
 - ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
 
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashim7Abdullah&show_icons=true&theme=radical)
 
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim7Abdullah&layout=compact&theme=dark)
 
 
 
