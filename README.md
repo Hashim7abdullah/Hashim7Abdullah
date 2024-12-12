@@ -39,9 +39,7 @@ Here are some of the languages, frameworks, and tools that I work with:
 
 
 - ## Tools and Frameworks
-
-These are the tools and frameworks I frequently use in my MERN stack projects:
-
+- 
 ### Frontend
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
