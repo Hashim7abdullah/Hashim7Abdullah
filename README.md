@@ -62,3 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hashim7Abdullah&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim7Abdullah&layout=compact&theme=dark" width="49%" />
 </div>
+
+
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Hashim7Abdullah/Hashim7Abdullah/output/github-contribution-grid-snake.svg)
+
