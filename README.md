@@ -65,5 +65,3 @@
 
 
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Hashim7Abdullah/Hashim7Abdullah/output/github-contribution-grid-snake.svg)
-
