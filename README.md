@@ -9,7 +9,7 @@
   <a href="https://instagram.com/ha5hiim" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/hashim-abdullah-1a0b3a30b" target="_blank">
+  <a href="https://www.linkedin.com/in/hashim7abdullah" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:hashim7abdullah7@gmail.com">
