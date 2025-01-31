@@ -1,6 +1,6 @@
 # Hi there, I'm Hashim Abdullah 👋
 
-- 🔭 I'm currently working on authenticated node.js project
+- 🔭 I'm currently working on a ecommerce project
 - 🌱 I'm currently a MERN Stack Developer
 - 👯 I'm looking to collaborate on MERN Stack Projects
 - 📫 Connect with me: hashim7abdullah7@gmail.com
